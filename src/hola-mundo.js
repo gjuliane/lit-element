@@ -1,7 +1,7 @@
 // import { LitElement, html } from "lit-element";
 import { LitElement, html } from "lit-element/lit-element";
 
-class HolaMundo extends LitElement {
+export class HolaMundo extends LitElement {
 
   static get properties(){
     return {
